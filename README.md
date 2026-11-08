@@ -1,2 +1,1 @@
-# LSBU-Incident-01
-Emergency data dump intercepted during the active network exfiltration event at LSBU.
+FLAG{CYBERWOMEN_LSBU_INSIDER_THREAT}
